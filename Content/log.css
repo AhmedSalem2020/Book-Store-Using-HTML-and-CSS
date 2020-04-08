@@ -1,0 +1,23 @@
+   #fb,#tw{
+            display:inline-block;
+			height:25px;
+			text-align:center;
+			font-size:15px;
+			margin: 5px,auto;
+			margin-left:15px;
+			padding:5px;
+			
+        }
+		
+		#fb{
+			
+			width:100px;
+			background-color: #0000b3;
+		}
+		
+		#tw{
+			
+			width:100px;
+			background-color: #76a0ef;
+		}
+		
